@@ -1,7 +1,0 @@
-password: kisan2ds
-firstname: Kishan
-user_id: 2
-phone: 82394823
-email: kishan@test.com
-username: kishan22
-lastname: chandra

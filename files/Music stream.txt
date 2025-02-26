@@ -1,5 +1,0 @@
-github_link: https://github.com/deepaksy/musicstream
-name: Music stream
-description: A music streaming website made using php,html,javascript,css and mysql
-pid: 1
-project_link: https://music.iamengineer.co.in

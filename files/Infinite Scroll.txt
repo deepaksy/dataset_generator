@@ -1,5 +1,0 @@
-github_link: https://github.com/deepaksy/Infinite-scroll.git
-name: Infinite Scroll
-description: An simple project to demonstrate the infinte scoll behaviour.
-pid: 4
-project_link: https://deepak.iamengineer.co.in/Infinite-scroll/

@@ -1,5 +1,0 @@
-github_link: https://github.com/deepaksy/deepaksy.github.io
-name: Portfolio
-description: A portfolio website made using nextjs and material ui
-pid: 3
-project_link: null
