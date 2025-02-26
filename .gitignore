@@ -4,6 +4,7 @@
 *.jar
 *.war
 *.ear
+*.txt
 
 # Eclipse & Spring Tool Suite specific
 .metadata/
