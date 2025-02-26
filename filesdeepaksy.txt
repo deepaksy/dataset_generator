@@ -1,0 +1,7 @@
+password: test@1234
+firstname: deepak
+user_id: 1
+phone: 882382342
+email: test@gmail.com
+username: deepaksy
+lastname: suryawanshi

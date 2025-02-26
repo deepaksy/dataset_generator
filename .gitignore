@@ -1,0 +1,51 @@
+# Java specific
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Eclipse & Spring Tool Suite specific
+.metadata/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.idea/
+
+# Maven build directories
+/target/
+/*.log
+
+# Gradle build directories
+/.gradle/
+/build/
+
+# IntelliJ IDEA project files
+/.idea/
+/out/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Spring Boot specific
+spring-boot-devtools/
+spring-boot-maven-plugin/
+
+# Lombok
+*.lombok/
+
+# Logs
+/logs/
+
+# Temporary files
+*.swp
+*.swo
