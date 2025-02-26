@@ -20,7 +20,7 @@ public class DatabaseConnectionTest  {
 		config.setDriverClass("com.mysql.cj.jdbc.Driver");
 		config.setJdbcUrl("jdbc:mysql://192.168.1.203:9981/portfolio");
 		config.setUsername("root");
-		config.setPassword("Navy@1234");
+		config.setPassword(null);
 		DatabaseDAO dao = new DatabaseDAO(config);
 		try {
 			List<Map<String, Object>> list = dao.executeQuery("select * from projects");
